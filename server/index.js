@@ -1,10 +1,28 @@
+```javascript
 'use strict';
-const http=require('http'),fs=require('fs'),path=require('path');
-const root=path.join(__dirname,'..','public');
-const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.svg':'image/svg+xml','.csv':'text/csv; charset=utf-8','.txt':'text/plain; charset=utf-8','.webmanifest':'application/manifest+json'};
-const server=http.createServer((req,res)=>{const u=new URL(req.url,'http://localhost');if(u.pathname==='/api/status'){res.writeHead(200,{'content-type':'application/json'});return res.end(JSON.stringify({mode:'offline',apiRequired:false,engine:'Reference matching + user confirmation'}));}let p=decodeURIComponent(u.pathname==='/'?'/index.html':u.pathname);let target=path.resolve(root,'.'+p);if(!target.startsWith(root+path.sep)&&target!==path.join(root,'index.html')){res.writeHead(403);return res.end('Forbidden');}fs.readFile(target,(e,b)=>{if(e){res.writeHead(404);return res.end('Not found');}res.writeHead(200,{'content-type':types[path.extname(target).toLowerCase()]||'application/octet-stream','cache-control':'no-cache','x-content-type-options':'nosniff'});res.end(b);});});
-const port=Number(process.env.PORT)||3000;const PORT = process.env.PORT || 3000;
 
-server.listen(PORT, "0.0.0.0", () => {
-    console.log(`EcoSort AI running on port ${PORT}`);
-});
+const http = require('http');
+const fs = require('fs');
+const path = require('path');
+
+const root = path.join(__dirname, '..', 'public');
+
+const types = {
+    '.html': 'text/html; charset=utf-8',
+    '.css': 'text/css; charset=utf-8',
+    '.js': 'text/javascript; charset=utf-8',
+    '.json': 'application/json; charset=utf-8',
+    '.jpg': 'image/jpeg',
+    '.jpeg': 'image/jpeg',
+    '.png': 'image/png',
+    '.svg': 'image/svg+xml',
+    '.csv': 'text/csv; charset=utf-8',
+    '.txt': 'text/plain; charset=utf-8',
+    '.webmanifest': 'application/manifest+json'
+};
+
+const server = http.createServer((req, res) => {
+    try {
+        const u = new URL(req.url, 'http://localhost');
+
+        // API
