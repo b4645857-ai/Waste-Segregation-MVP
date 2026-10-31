@@ -1,0 +1,201 @@
+image_path,item_name,category,label_id,image_type
+Recyclable/recyclable_01.jpg,Aluminum beverage can,Recyclable,1,original
+Recyclable/recyclable_02.jpg,Corrugated cardboard shipping box,Recyclable,1,original
+Recyclable/recyclable_03.jpg,PET plastic water bottle (#1),Recyclable,1,original
+Recyclable/recyclable_04.jpg,HDPE plastic milk jug (#2),Recyclable,1,original
+Recyclable/recyclable_05.jpg,Glass food jar,Recyclable,1,original
+Recyclable/recyclable_06.jpg,Newspaper,Recyclable,1,original
+Recyclable/recyclable_07.jpg,Office printing paper,Recyclable,1,original
+Recyclable/recyclable_08.jpg,Steel soup can,Recyclable,1,original
+Recyclable/recyclable_09.jpg,Magazines and catalogs,Recyclable,1,original
+Recyclable/recyclable_10.jpg,Paperboard cereal box,Recyclable,1,original
+Recyclable/recyclable_11.jpg,Clean aluminum foil tray,Recyclable,1,original
+Recyclable/recyclable_12.jpg,Shampoo bottle,Recyclable,1,original
+Recyclable/recyclable_13.jpg,Junk mail envelopes,Recyclable,1,original
+Recyclable/recyclable_14.jpg,Glass beverage bottle,Recyclable,1,original
+Recyclable/recyclable_15.jpg,Detergent jug,Recyclable,1,original
+Recyclable/recyclable_16.jpg,Phone book,Recyclable,1,original
+Recyclable/recyclable_17.jpg,Paper egg carton,Recyclable,1,original
+Recyclable/recyclable_18.jpg,Tin food can,Recyclable,1,original
+Recyclable/recyclable_19.jpg,Brown paper grocery bag,Recyclable,1,original
+Recyclable/recyclable_20.jpg,Plastic condiment jar,Recyclable,1,original
+Recyclable/recyclable_aug_01.jpg,Aluminum beverage can,Recyclable,1,augmented
+Recyclable/recyclable_aug_02.jpg,Corrugated cardboard shipping box,Recyclable,1,augmented
+Recyclable/recyclable_aug_03.jpg,PET plastic water bottle (#1),Recyclable,1,augmented
+Recyclable/recyclable_aug_04.jpg,HDPE plastic milk jug (#2),Recyclable,1,augmented
+Recyclable/recyclable_aug_05.jpg,Glass food jar,Recyclable,1,augmented
+Recyclable/recyclable_aug_06.jpg,Newspaper,Recyclable,1,augmented
+Recyclable/recyclable_aug_07.jpg,Office printing paper,Recyclable,1,augmented
+Recyclable/recyclable_aug_08.jpg,Steel soup can,Recyclable,1,augmented
+Recyclable/recyclable_aug_09.jpg,Magazines and catalogs,Recyclable,1,augmented
+Recyclable/recyclable_aug_10.jpg,Paperboard cereal box,Recyclable,1,augmented
+Recyclable/recyclable_aug_11.jpg,Clean aluminum foil tray,Recyclable,1,augmented
+Recyclable/recyclable_aug_12.jpg,Shampoo bottle,Recyclable,1,augmented
+Recyclable/recyclable_aug_13.jpg,Junk mail envelopes,Recyclable,1,augmented
+Recyclable/recyclable_aug_14.jpg,Glass beverage bottle,Recyclable,1,augmented
+Recyclable/recyclable_aug_15.jpg,Detergent jug,Recyclable,1,augmented
+Recyclable/recyclable_aug_16.jpg,Phone book,Recyclable,1,augmented
+Recyclable/recyclable_aug_17.jpg,Paper egg carton,Recyclable,1,augmented
+Recyclable/recyclable_aug_18.jpg,Tin food can,Recyclable,1,augmented
+Recyclable/recyclable_aug_19.jpg,Brown paper grocery bag,Recyclable,1,augmented
+Recyclable/recyclable_aug_20.jpg,Plastic condiment jar,Recyclable,1,augmented
+Recyclable/recyclable_aug_21.jpg,Aluminum beverage can,Recyclable,1,augmented
+Recyclable/recyclable_aug_22.jpg,Corrugated cardboard shipping box,Recyclable,1,augmented
+Recyclable/recyclable_aug_23.jpg,PET plastic water bottle (#1),Recyclable,1,augmented
+Recyclable/recyclable_aug_24.jpg,HDPE plastic milk jug (#2),Recyclable,1,augmented
+Recyclable/recyclable_aug_25.jpg,Glass food jar,Recyclable,1,augmented
+Recyclable/recyclable_aug_26.jpg,Newspaper,Recyclable,1,augmented
+Recyclable/recyclable_aug_27.jpg,Office printing paper,Recyclable,1,augmented
+Recyclable/recyclable_aug_28.jpg,Steel soup can,Recyclable,1,augmented
+Recyclable/recyclable_aug_29.jpg,Magazines and catalogs,Recyclable,1,augmented
+Recyclable/recyclable_aug_30.jpg,Paperboard cereal box,Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_01.jpg,Greasy pizza box,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_02.jpg,Styrofoam cup or container,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_03.jpg,Plastic cling wrap and film,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_04.jpg,Ceramic mug or plate,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_05.jpg,Plastic-lined single-use coffee cup,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_06.jpg,Used paper towels and napkins,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_07.jpg,Bubble wrap,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_08.jpg,Drinking straws,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_09.jpg,Foil-lined potato chip bag,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_10.jpg,Broken window glass,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_11.jpg,Plastic disposable cutlery,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_12.jpg,Wax paper,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_13.jpg,Mirror glass,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_14.jpg,Thermal shopping receipt,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_15.jpg,Multi-layer toothbrush tube,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_16.jpg,Diaper or sanitary product,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_17.jpg,Pet litter,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_18.jpg,Cigarette butts,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_19.jpg,Soiled food wrapper,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_20.jpg,Old incandescent light bulb,Non-Recyclable,1,original
+Non_Recyclable/nonrecyclable_aug_01.jpg,Greasy pizza box,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_02.jpg,Styrofoam cup or container,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_03.jpg,Plastic cling wrap and film,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_04.jpg,Ceramic mug or plate,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_05.jpg,Plastic-lined single-use coffee cup,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_06.jpg,Used paper towels and napkins,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_07.jpg,Bubble wrap,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_08.jpg,Drinking straws,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_09.jpg,Foil-lined potato chip bag,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_10.jpg,Broken window glass,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_11.jpg,Plastic disposable cutlery,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_12.jpg,Wax paper,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_13.jpg,Mirror glass,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_14.jpg,Thermal shopping receipt,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_15.jpg,Multi-layer toothbrush tube,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_16.jpg,Diaper or sanitary product,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_17.jpg,Pet litter,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_18.jpg,Cigarette butts,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_19.jpg,Soiled food wrapper,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_20.jpg,Old incandescent light bulb,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_21.jpg,Greasy pizza box,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_22.jpg,Styrofoam cup or container,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_23.jpg,Plastic cling wrap and film,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_24.jpg,Ceramic mug or plate,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_25.jpg,Plastic-lined single-use coffee cup,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_26.jpg,Used paper towels and napkins,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_27.jpg,Bubble wrap,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_28.jpg,Drinking straws,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_29.jpg,Foil-lined potato chip bag,Non-Recyclable,1,augmented
+Non_Recyclable/nonrecyclable_aug_30.jpg,Broken window glass,Non-Recyclable,1,augmented
+Hazardous/hazardous_01.jpg,Lithium-ion battery,Hazardous,1,original
+Hazardous/hazardous_02.jpg,Used motor oil,Hazardous,1,original
+Hazardous/hazardous_03.jpg,Lead-acid car battery,Hazardous,1,original
+Hazardous/hazardous_04.jpg,Fluorescent light tube,Hazardous,1,original
+Hazardous/hazardous_05.jpg,Leftover oil-based paint,Hazardous,1,original
+Hazardous/hazardous_06.jpg,Household pesticide or weed killer,Hazardous,1,original
+Hazardous/hazardous_07.jpg,Expired prescription medication,Hazardous,1,original
+Hazardous/hazardous_08.jpg,Mercury thermometer,Hazardous,1,original
+Hazardous/hazardous_09.jpg,Partly full aerosol can,Hazardous,1,original
+Hazardous/hazardous_10.jpg,Chemical drain cleaner,Hazardous,1,original
+Hazardous/hazardous_11.jpg,Pool chemicals,Hazardous,1,original
+Hazardous/hazardous_12.jpg,Oven cleaner,Hazardous,1,original
+Hazardous/hazardous_13.jpg,Electronic waste smartphone or tablet,Hazardous,1,original
+Hazardous/hazardous_14.jpg,CRT computer monitor,Hazardous,1,original
+Hazardous/hazardous_15.jpg,Ammunition or fireworks,Hazardous,1,original
+Hazardous/hazardous_16.jpg,Needles and medical sharps,Hazardous,1,original
+Hazardous/hazardous_17.jpg,Antifreeze,Hazardous,1,original
+Hazardous/hazardous_18.jpg,Wood preservative,Hazardous,1,original
+Hazardous/hazardous_19.jpg,Asbestos insulation material,Hazardous,1,original
+Hazardous/hazardous_20.jpg,Smoke detector,Hazardous,1,original
+Hazardous/hazardous_aug_01.jpg,Lithium-ion battery,Hazardous,1,augmented
+Hazardous/hazardous_aug_02.jpg,Used motor oil,Hazardous,1,augmented
+Hazardous/hazardous_aug_03.jpg,Lead-acid car battery,Hazardous,1,augmented
+Hazardous/hazardous_aug_04.jpg,Fluorescent light tube,Hazardous,1,augmented
+Hazardous/hazardous_aug_05.jpg,Leftover oil-based paint,Hazardous,1,augmented
+Hazardous/hazardous_aug_06.jpg,Household pesticide or weed killer,Hazardous,1,augmented
+Hazardous/hazardous_aug_07.jpg,Expired prescription medication,Hazardous,1,augmented
+Hazardous/hazardous_aug_08.jpg,Mercury thermometer,Hazardous,1,augmented
+Hazardous/hazardous_aug_09.jpg,Partly full aerosol can,Hazardous,1,augmented
+Hazardous/hazardous_aug_10.jpg,Chemical drain cleaner,Hazardous,1,augmented
+Hazardous/hazardous_aug_11.jpg,Pool chemicals,Hazardous,1,augmented
+Hazardous/hazardous_aug_12.jpg,Oven cleaner,Hazardous,1,augmented
+Hazardous/hazardous_aug_13.jpg,Electronic waste smartphone or tablet,Hazardous,1,augmented
+Hazardous/hazardous_aug_14.jpg,CRT computer monitor,Hazardous,1,augmented
+Hazardous/hazardous_aug_15.jpg,Ammunition or fireworks,Hazardous,1,augmented
+Hazardous/hazardous_aug_16.jpg,Needles and medical sharps,Hazardous,1,augmented
+Hazardous/hazardous_aug_17.jpg,Antifreeze,Hazardous,1,augmented
+Hazardous/hazardous_aug_18.jpg,Wood preservative,Hazardous,1,augmented
+Hazardous/hazardous_aug_19.jpg,Asbestos insulation material,Hazardous,1,augmented
+Hazardous/hazardous_aug_20.jpg,Smoke detector,Hazardous,1,augmented
+Hazardous/hazardous_aug_21.jpg,Lithium-ion battery,Hazardous,1,augmented
+Hazardous/hazardous_aug_22.jpg,Used motor oil,Hazardous,1,augmented
+Hazardous/hazardous_aug_23.jpg,Lead-acid car battery,Hazardous,1,augmented
+Hazardous/hazardous_aug_24.jpg,Fluorescent light tube,Hazardous,1,augmented
+Hazardous/hazardous_aug_25.jpg,Leftover oil-based paint,Hazardous,1,augmented
+Hazardous/hazardous_aug_26.jpg,Household pesticide or weed killer,Hazardous,1,augmented
+Hazardous/hazardous_aug_27.jpg,Expired prescription medication,Hazardous,1,augmented
+Hazardous/hazardous_aug_28.jpg,Mercury thermometer,Hazardous,1,augmented
+Hazardous/hazardous_aug_29.jpg,Partly full aerosol can,Hazardous,1,augmented
+Hazardous/hazardous_aug_30.jpg,Chemical drain cleaner,Hazardous,1,augmented
+Other/other_01.jpg,Food scraps,Other,1,original
+Other/other_02.jpg,Yard trimmings and grass clippings,Other,1,original
+Other/other_03.jpg,Old clothing and textiles,Other,1,original
+Other/other_04.jpg,Wooden pallet or scrap lumber,Other,1,original
+Other/other_05.jpg,Old mattress,Other,1,original
+Other/other_06.jpg,Coffee grounds and filters,Other,1,original
+Other/other_07.jpg,Leaves and twigs,Other,1,original
+Other/other_08.jpg,Worn-out rubber tire,Other,1,original
+Other/other_09.jpg,Concrete and brick debris,Other,1,original
+Other/other_10.jpg,Drywall scraps,Other,1,original
+Other/other_11.jpg,Damaged leather shoes,Other,1,original
+Other/other_12.jpg,Carpet remnants,Other,1,original
+Other/other_13.jpg,Upholstered sofa,Other,1,original
+Other/other_14.jpg,Animal bones and meat scraps,Other,1,original
+Other/other_15.jpg,Eggshells,Other,1,original
+Other/other_16.jpg,Tree stump,Other,1,original
+Other/other_17.jpg,Old bedsheets and curtains,Other,1,original
+Other/other_18.jpg,Sawdust,Other,1,original
+Other/other_19.jpg,Broken ceramic flower pot,Other,1,original
+Other/other_20.jpg,Used cooking oil,Other,1,original
+Other/other_aug_01.jpg,Food scraps,Other,1,augmented
+Other/other_aug_02.jpg,Yard trimmings and grass clippings,Other,1,augmented
+Other/other_aug_03.jpg,Old clothing and textiles,Other,1,augmented
+Other/other_aug_04.jpg,Wooden pallet or scrap lumber,Other,1,augmented
+Other/other_aug_05.jpg,Old mattress,Other,1,augmented
+Other/other_aug_06.jpg,Coffee grounds and filters,Other,1,augmented
+Other/other_aug_07.jpg,Leaves and twigs,Other,1,augmented
+Other/other_aug_08.jpg,Worn-out rubber tire,Other,1,augmented
+Other/other_aug_09.jpg,Concrete and brick debris,Other,1,augmented
+Other/other_aug_10.jpg,Drywall scraps,Other,1,augmented
+Other/other_aug_11.jpg,Damaged leather shoes,Other,1,augmented
+Other/other_aug_12.jpg,Carpet remnants,Other,1,augmented
+Other/other_aug_13.jpg,Upholstered sofa,Other,1,augmented
+Other/other_aug_14.jpg,Animal bones and meat scraps,Other,1,augmented
+Other/other_aug_15.jpg,Eggshells,Other,1,augmented
+Other/other_aug_16.jpg,Tree stump,Other,1,augmented
+Other/other_aug_17.jpg,Old bedsheets and curtains,Other,1,augmented
+Other/other_aug_18.jpg,Sawdust,Other,1,augmented
+Other/other_aug_19.jpg,Broken ceramic flower pot,Other,1,augmented
+Other/other_aug_20.jpg,Used cooking oil,Other,1,augmented
+Other/other_aug_21.jpg,Food scraps,Other,1,augmented
+Other/other_aug_22.jpg,Yard trimmings and grass clippings,Other,1,augmented
+Other/other_aug_23.jpg,Old clothing and textiles,Other,1,augmented
+Other/other_aug_24.jpg,Wooden pallet or scrap lumber,Other,1,augmented
+Other/other_aug_25.jpg,Old mattress,Other,1,augmented
+Other/other_aug_26.jpg,Coffee grounds and filters,Other,1,augmented
+Other/other_aug_27.jpg,Leaves and twigs,Other,1,augmented
+Other/other_aug_28.jpg,Worn-out rubber tire,Other,1,augmented
+Other/other_aug_29.jpg,Concrete and brick debris,Other,1,augmented
+Other/other_aug_30.jpg,Drywall scraps,Other,1,augmented

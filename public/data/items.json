@@ -1,0 +1,1665 @@
+[
+  {
+    "id": "recyclable_01",
+    "name": "Aluminum beverage can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_01.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_02",
+    "name": "Corrugated cardboard shipping box",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_02.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_03",
+    "name": "PET plastic water bottle (#1)",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_03.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_04",
+    "name": "HDPE plastic milk jug (#2)",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_04.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_05",
+    "name": "Glass food jar",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_05.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_06",
+    "name": "Newspaper",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_06.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_07",
+    "name": "Office printing paper",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_07.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_08",
+    "name": "Steel soup can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_08.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_09",
+    "name": "Magazines and catalogs",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_09.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_10",
+    "name": "Paperboard cereal box",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_10.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_11",
+    "name": "Clean aluminum foil tray",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_11.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_12",
+    "name": "Shampoo bottle",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_12.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_13",
+    "name": "Junk mail envelopes",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_13.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_14",
+    "name": "Glass beverage bottle",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_14.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_15",
+    "name": "Detergent jug",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_15.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_16",
+    "name": "Phone book",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_16.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_17",
+    "name": "Paper egg carton",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_17.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_18",
+    "name": "Tin food can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_18.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_19",
+    "name": "Brown paper grocery bag",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_19.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_20",
+    "name": "Plastic condiment jar",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_20.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "recyclable_aug_01",
+    "name": "Aluminum beverage can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_01.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_02",
+    "name": "Corrugated cardboard shipping box",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_02.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_03",
+    "name": "PET plastic water bottle (#1)",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_03.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_04",
+    "name": "HDPE plastic milk jug (#2)",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_04.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_05",
+    "name": "Glass food jar",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_05.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_06",
+    "name": "Newspaper",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_06.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_07",
+    "name": "Office printing paper",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_07.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_08",
+    "name": "Steel soup can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_08.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_09",
+    "name": "Magazines and catalogs",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_09.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_10",
+    "name": "Paperboard cereal box",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_10.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_11",
+    "name": "Clean aluminum foil tray",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_11.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_12",
+    "name": "Shampoo bottle",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_12.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_13",
+    "name": "Junk mail envelopes",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_13.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_14",
+    "name": "Glass beverage bottle",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_14.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_15",
+    "name": "Detergent jug",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_15.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_16",
+    "name": "Phone book",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_16.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_17",
+    "name": "Paper egg carton",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_17.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_18",
+    "name": "Tin food can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_18.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_19",
+    "name": "Brown paper grocery bag",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_19.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_20",
+    "name": "Plastic condiment jar",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_20.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_21",
+    "name": "Aluminum beverage can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_21.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_22",
+    "name": "Corrugated cardboard shipping box",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_22.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_23",
+    "name": "PET plastic water bottle (#1)",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_23.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_24",
+    "name": "HDPE plastic milk jug (#2)",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_24.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_25",
+    "name": "Glass food jar",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_25.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_26",
+    "name": "Newspaper",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_26.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_27",
+    "name": "Office printing paper",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_27.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_28",
+    "name": "Steel soup can",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_28.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_29",
+    "name": "Magazines and catalogs",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_29.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "recyclable_aug_30",
+    "name": "Paperboard cereal box",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/Recyclable/recyclable_aug_30.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_01",
+    "name": "Greasy pizza box",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_01.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_02",
+    "name": "Styrofoam cup or container",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_02.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_03",
+    "name": "Plastic cling wrap and film",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_03.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_04",
+    "name": "Ceramic mug or plate",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_04.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_05",
+    "name": "Plastic-lined single-use coffee cup",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_05.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_06",
+    "name": "Used paper towels and napkins",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_06.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_07",
+    "name": "Bubble wrap",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_07.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_08",
+    "name": "Drinking straws",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_08.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_09",
+    "name": "Foil-lined potato chip bag",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_09.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_10",
+    "name": "Broken window glass",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_10.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_11",
+    "name": "Plastic disposable cutlery",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_11.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_12",
+    "name": "Wax paper",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_12.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_13",
+    "name": "Mirror glass",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_13.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_14",
+    "name": "Thermal shopping receipt",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_14.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_15",
+    "name": "Multi-layer toothbrush tube",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_15.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_16",
+    "name": "Diaper or sanitary product",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_16.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_17",
+    "name": "Pet litter",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_17.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_18",
+    "name": "Cigarette butts",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_18.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_19",
+    "name": "Soiled food wrapper",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_19.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_20",
+    "name": "Old incandescent light bulb",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_20.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "nonrecyclable_aug_01",
+    "name": "Greasy pizza box",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_01.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_02",
+    "name": "Styrofoam cup or container",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_02.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_03",
+    "name": "Plastic cling wrap and film",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_03.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_04",
+    "name": "Ceramic mug or plate",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_04.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_05",
+    "name": "Plastic-lined single-use coffee cup",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_05.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_06",
+    "name": "Used paper towels and napkins",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_06.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_07",
+    "name": "Bubble wrap",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_07.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_08",
+    "name": "Drinking straws",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_08.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_09",
+    "name": "Foil-lined potato chip bag",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_09.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_10",
+    "name": "Broken window glass",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_10.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_11",
+    "name": "Plastic disposable cutlery",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_11.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_12",
+    "name": "Wax paper",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_12.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_13",
+    "name": "Mirror glass",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_13.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_14",
+    "name": "Thermal shopping receipt",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_14.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_15",
+    "name": "Multi-layer toothbrush tube",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_15.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_16",
+    "name": "Diaper or sanitary product",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_16.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_17",
+    "name": "Pet litter",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_17.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_18",
+    "name": "Cigarette butts",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_18.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_19",
+    "name": "Soiled food wrapper",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_19.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_20",
+    "name": "Old incandescent light bulb",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_20.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_21",
+    "name": "Greasy pizza box",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_21.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_22",
+    "name": "Styrofoam cup or container",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_22.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_23",
+    "name": "Plastic cling wrap and film",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_23.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_24",
+    "name": "Ceramic mug or plate",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_24.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_25",
+    "name": "Plastic-lined single-use coffee cup",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_25.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_26",
+    "name": "Used paper towels and napkins",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_26.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_27",
+    "name": "Bubble wrap",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_27.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_28",
+    "name": "Drinking straws",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_28.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_29",
+    "name": "Foil-lined potato chip bag",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_29.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "nonrecyclable_aug_30",
+    "name": "Broken window glass",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/Non_Recyclable/nonrecyclable_aug_30.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_01",
+    "name": "Lithium-ion battery",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_01.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_02",
+    "name": "Used motor oil",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_02.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_03",
+    "name": "Lead-acid car battery",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_03.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_04",
+    "name": "Fluorescent light tube",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_04.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_05",
+    "name": "Leftover oil-based paint",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_05.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_06",
+    "name": "Household pesticide or weed killer",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_06.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_07",
+    "name": "Expired prescription medication",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_07.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_08",
+    "name": "Mercury thermometer",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_08.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_09",
+    "name": "Partly full aerosol can",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_09.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_10",
+    "name": "Chemical drain cleaner",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_10.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_11",
+    "name": "Pool chemicals",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_11.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_12",
+    "name": "Oven cleaner",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_12.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_13",
+    "name": "Electronic waste smartphone or tablet",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_13.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_14",
+    "name": "CRT computer monitor",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_14.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_15",
+    "name": "Ammunition or fireworks",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_15.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_16",
+    "name": "Needles and medical sharps",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_16.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_17",
+    "name": "Antifreeze",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_17.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_18",
+    "name": "Wood preservative",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_18.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_19",
+    "name": "Asbestos insulation material",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_19.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_20",
+    "name": "Smoke detector",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_20.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "hazardous_aug_01",
+    "name": "Lithium-ion battery",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_01.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_02",
+    "name": "Used motor oil",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_02.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_03",
+    "name": "Lead-acid car battery",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_03.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_04",
+    "name": "Fluorescent light tube",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_04.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_05",
+    "name": "Leftover oil-based paint",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_05.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_06",
+    "name": "Household pesticide or weed killer",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_06.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_07",
+    "name": "Expired prescription medication",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_07.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_08",
+    "name": "Mercury thermometer",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_08.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_09",
+    "name": "Partly full aerosol can",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_09.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_10",
+    "name": "Chemical drain cleaner",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_10.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_11",
+    "name": "Pool chemicals",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_11.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_12",
+    "name": "Oven cleaner",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_12.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_13",
+    "name": "Electronic waste smartphone or tablet",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_13.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_14",
+    "name": "CRT computer monitor",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_14.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_15",
+    "name": "Ammunition or fireworks",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_15.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_16",
+    "name": "Needles and medical sharps",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_16.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_17",
+    "name": "Antifreeze",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_17.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_18",
+    "name": "Wood preservative",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_18.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_19",
+    "name": "Asbestos insulation material",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_19.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_20",
+    "name": "Smoke detector",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_20.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_21",
+    "name": "Lithium-ion battery",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_21.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_22",
+    "name": "Used motor oil",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_22.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_23",
+    "name": "Lead-acid car battery",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_23.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_24",
+    "name": "Fluorescent light tube",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_24.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_25",
+    "name": "Leftover oil-based paint",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_25.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_26",
+    "name": "Household pesticide or weed killer",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_26.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_27",
+    "name": "Expired prescription medication",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_27.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_28",
+    "name": "Mercury thermometer",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_28.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_29",
+    "name": "Partly full aerosol can",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_29.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "hazardous_aug_30",
+    "name": "Chemical drain cleaner",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/Hazardous/hazardous_aug_30.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_01",
+    "name": "Food scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_01.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_02",
+    "name": "Yard trimmings and grass clippings",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_02.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_03",
+    "name": "Old clothing and textiles",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_03.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_04",
+    "name": "Wooden pallet or scrap lumber",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_04.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_05",
+    "name": "Old mattress",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_05.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_06",
+    "name": "Coffee grounds and filters",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_06.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_07",
+    "name": "Leaves and twigs",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_07.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_08",
+    "name": "Worn-out rubber tire",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_08.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_09",
+    "name": "Concrete and brick debris",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_09.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_10",
+    "name": "Drywall scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_10.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_11",
+    "name": "Damaged leather shoes",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_11.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_12",
+    "name": "Carpet remnants",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_12.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_13",
+    "name": "Upholstered sofa",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_13.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_14",
+    "name": "Animal bones and meat scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_14.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_15",
+    "name": "Eggshells",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_15.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_16",
+    "name": "Tree stump",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_16.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_17",
+    "name": "Old bedsheets and curtains",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_17.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_18",
+    "name": "Sawdust",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_18.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_19",
+    "name": "Broken ceramic flower pot",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_19.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_20",
+    "name": "Used cooking oil",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_20.jpg",
+    "variant": "original"
+  },
+  {
+    "id": "other_aug_01",
+    "name": "Food scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_01.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_02",
+    "name": "Yard trimmings and grass clippings",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_02.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_03",
+    "name": "Old clothing and textiles",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_03.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_04",
+    "name": "Wooden pallet or scrap lumber",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_04.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_05",
+    "name": "Old mattress",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_05.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_06",
+    "name": "Coffee grounds and filters",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_06.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_07",
+    "name": "Leaves and twigs",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_07.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_08",
+    "name": "Worn-out rubber tire",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_08.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_09",
+    "name": "Concrete and brick debris",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_09.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_10",
+    "name": "Drywall scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_10.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_11",
+    "name": "Damaged leather shoes",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_11.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_12",
+    "name": "Carpet remnants",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_12.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_13",
+    "name": "Upholstered sofa",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_13.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_14",
+    "name": "Animal bones and meat scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_14.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_15",
+    "name": "Eggshells",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_15.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_16",
+    "name": "Tree stump",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_16.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_17",
+    "name": "Old bedsheets and curtains",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_17.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_18",
+    "name": "Sawdust",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_18.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_19",
+    "name": "Broken ceramic flower pot",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_19.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_20",
+    "name": "Used cooking oil",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_20.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_21",
+    "name": "Food scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_21.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_22",
+    "name": "Yard trimmings and grass clippings",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_22.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_23",
+    "name": "Old clothing and textiles",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_23.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_24",
+    "name": "Wooden pallet or scrap lumber",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_24.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_25",
+    "name": "Old mattress",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_25.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_26",
+    "name": "Coffee grounds and filters",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_26.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_27",
+    "name": "Leaves and twigs",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_27.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_28",
+    "name": "Worn-out rubber tire",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_28.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_29",
+    "name": "Concrete and brick debris",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_29.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "other_aug_30",
+    "name": "Drywall scraps",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/Other/other_aug_30.jpg",
+    "variant": "augmented"
+  },
+  {
+    "id": "realworld_01",
+    "name": "AA alkaline battery",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/RealWorld_7/01_alkaline_battery.jpg",
+    "variant": "real-world-photo",
+    "disposalNote": "Keep separate; use battery collection point."
+  },
+  {
+    "id": "realworld_02",
+    "name": "Single-use beverage cup",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/RealWorld_7/02_beverage_cup.jpg",
+    "variant": "real-world-photo",
+    "disposalNote": "Separate cup and lid if possible; check local material acceptance."
+  },
+  {
+    "id": "realworld_03",
+    "name": "Power adapter and cable",
+    "category": "hazardous",
+    "categoryLabel": "Hazardous",
+    "image": "/dataset/RealWorld_7/03_power_adapter_and_cable.jpg",
+    "variant": "real-world-photo",
+    "disposalNote": "Authorised e-waste collection."
+  },
+  {
+    "id": "realworld_04",
+    "name": "Laptop",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/RealWorld_7/04_laptop.jpg",
+    "variant": "real-world-photo",
+    "disposalNote": "Reuse, repair or authorised e-waste collection."
+  },
+  {
+    "id": "realworld_05",
+    "name": "Whiteboard marker",
+    "category": "nonrecyclable",
+    "categoryLabel": "Non-Recyclable",
+    "image": "/dataset/RealWorld_7/05_whiteboard_marker.jpg",
+    "variant": "real-world-photo",
+    "disposalNote": "General waste unless a marker take-back programme accepts it."
+  },
+  {
+    "id": "realworld_06",
+    "name": "Cloth napkin",
+    "category": "other",
+    "categoryLabel": "Other",
+    "image": "/dataset/RealWorld_7/06_cloth_napkin.jpg",
+    "variant": "real-world-photo",
+    "disposalNote": "Reuse, donate or textile collection."
+  },
+  {
+    "id": "realworld_07",
+    "name": "PET plastic bottle",
+    "category": "recyclable",
+    "categoryLabel": "Recyclable",
+    "image": "/dataset/RealWorld_7/07_pet_bottle.jpg",
+    "variant": "real-world-photo",
+    "disposalNote": "Empty, rinse and recycle if local facilities accept PET #1."
+  }
+]

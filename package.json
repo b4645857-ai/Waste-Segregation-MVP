@@ -1,0 +1,15 @@
+{
+  "name": "ecosort-ai-offline",
+  "version": "4.1.0",
+  "private": true,
+  "description": "Offline-first waste segregation and sustainability assistant",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "check": "node --check server/index.js && node --check public/js/app.js",
+    "test": "node tests/smoke.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
